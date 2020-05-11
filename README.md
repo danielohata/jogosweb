@@ -5,3 +5,5 @@ Exemplos de jogos para web.
 
 [Página Inicial](https://danielohata.github.io/jogosweb/svg.html)
 
+[Aula 12](https://danielohata.github.io/jogosweb/snap_events.html)
+
